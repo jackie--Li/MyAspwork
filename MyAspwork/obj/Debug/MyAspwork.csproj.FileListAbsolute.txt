@@ -1,0 +1,5 @@
+F:\MicrosoftWorkSpace\MyAspwork\MyAspwork\bin\MyAspwork.dll
+F:\MicrosoftWorkSpace\MyAspwork\MyAspwork\bin\MyAspwork.pdb
+F:\MicrosoftWorkSpace\MyAspwork\MyAspwork\obj\Debug\ResolveAssemblyReference.cache
+F:\MicrosoftWorkSpace\MyAspwork\MyAspwork\obj\Debug\MyAspwork.dll
+F:\MicrosoftWorkSpace\MyAspwork\MyAspwork\obj\Debug\MyAspwork.pdb
